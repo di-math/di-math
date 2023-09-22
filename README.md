@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the automation and digitalisation of [consult.IN](https://consultin.net) - junior enterprise<br><br>🌱 I’m currently learning Node, Flutter & server administration (Azure, Ubuntu)<br><br>💬 Ask me about anything.<br><br>⚡ Fun fact: ⛵... if you know, you know.
+🔭 I’m currently working on building some app ideas<br><br>🌱 I’m currently learning Node, Flutter & server administration (Azure, Ubuntu)<br><br>💬 Ask me about anything.<br><br>⚡ Fun fact: ⛵... if you know, you know.
 
 
 ## 🌐 Socials:
